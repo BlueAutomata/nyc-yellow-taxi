@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# files
+yellow_tripdata_2016-03.csv
+
 # C extensions
 *.so
 

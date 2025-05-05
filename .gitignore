@@ -8,6 +8,8 @@ yellow_tripdata_2015-01.csv
 yellow_tripdata_2016-01.csv
 yellow_tripdata_2016-02.csv
 yellow_tripdata_2016-03.csv
+nyc_yellow_texi_data.csv
+nyc_yellow_texi_data_cleaned.csv
 
 # C extensions
 *.so
